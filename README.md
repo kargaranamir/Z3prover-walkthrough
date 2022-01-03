@@ -1,6 +1,6 @@
 # Z3prover-walkthrough
 
-[Open in Google Colab](http://colab.research.google.com/github/kargaranamir/Z3prover-walkthrough/blob/master)
+[Open in Google Colab](https://colab.research.google.com/github/kargaranamir/Z3prover-walkthrough/blob/main/Z3prover.ipynb)
 
 ### Source
 - Open Source Code: https://github.com/Z3Prover/z3
